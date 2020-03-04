@@ -67,7 +67,7 @@ background-color: rgb(155, 177, 196);
 
 .news_group p{
     font-family: 'Kosugi Maru', sans-serif;
-    font-size: 5px;
+    font-size: 15px;
 }
 
 .progress h1{
@@ -188,5 +188,5 @@ width: 120px;
 }
 .text p{
     margin: 10px;
-    font-size: 10px;
+    font-size: 5px;
 }
