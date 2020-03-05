@@ -25,13 +25,13 @@ li{
 }
 .pv video{
     margin: 20px 0;
-    width: 50%;
+    width: 100%;
 }
 /* ////////////////////////////////////////////////////////////////// */
 .header li{
     display: inline-block;
     list-style: none;
-    margin: 4%;
+    margin: 2%;
     margin-top: 24px;
 }
 
