@@ -15,6 +15,14 @@ a{
     border-radius: 5px;
 }
 /* ////////////////////////////////////////////////////////////////// */
+.pv{
+    text-align: center;
+}
+.pv video{
+    margin: 20px 0;
+    width: 30%;
+}
+/* ////////////////////////////////////////////////////////////////// */
 .header li{
     display: inline-block;
     list-style: none;
@@ -35,7 +43,7 @@ background-color: rgb(155, 177, 196);
 /* ////////////////////////////////////////////////////////////////// */
 .news_MG{
     text-align: center;
-    margin: 120px 0;
+    margin: 0px 0;
     margin-bottom: 90px;
 }
 
