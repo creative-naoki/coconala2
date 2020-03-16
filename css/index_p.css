@@ -2,6 +2,7 @@ body{
     font-family: 'Comfortaa', cursive;
     min-width: 390px;
     background-color: rgb(241, 255, 255);
+    margin: 0;
 }
 
 a{
@@ -42,7 +43,7 @@ li{
 .header_main{
 height: 60px;
 width: 100%;
-border-radius: 5px;
+border-radius: initial;
 background-color: rgb(155, 177, 196);
 }
 /* ////////////////////////////////////////////////////////////////// */
@@ -193,9 +194,12 @@ width: 120px;
 
 .text{
     text-align: center;
-    transform: translateY(20px);
+    transform: translateY(0px);
 }
 .text p{
-    margin: 5px;
-    font-size: 5px;
+    margin: 0px;
+    font-size: 1%;
+}
+.botton{
+    width: 50%;
 }
